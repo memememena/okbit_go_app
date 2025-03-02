@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780618768563",
+    "project_id": "okbitgo-e8806",
+    "storage_bucket": "okbitgo-e8806.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780618768563:android:e9588842e54d8e396a90c6",
+        "android_client_info": {
+          "package_name": "com.example.okbit_go_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXLzVqMy0rNBakOhLuS6HVo4qcPectDNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
